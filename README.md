@@ -1,4 +1,4 @@
-# Frank Feng
+# Junyou (Frank) Feng
 
 I'm an undergraduate student in Cognitive Science (Design & Interaction) at UC San Diego. I'm interested in HCI, interaction design, and user research — particularly how qualitative research and data can inform the design of human-centered technology.
 
